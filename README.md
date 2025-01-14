@@ -1,5 +1,5 @@
 
-# Rental Management
+# Pharmacy Management 
 
 
 This is a README file providing an overview of the database structure and queries used in the project.
